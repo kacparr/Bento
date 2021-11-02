@@ -11,26 +11,26 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Kacper',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Good morning',
+  greetingAfternoon: 'Good afternoon ',
+  greetingEvening: 'Good evening ',
+  greetingNight: 'Good night ',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherKey: 'e764b2b8df458539512ea1f44f68eb52',
+  weatherIcons: 'Nord', // 'OneDark', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'pl', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '51.100',
+  defaultLongitude: '17.033',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -40,39 +40,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'facebook',
+      icon: 'facebook',
+      link: 'https://facebook.com/',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
+      name: 'reddit',
+      icon: 'trello',
       link: 'https://reddit.com',
     },
     {
+      id: '5',
+      name: 'instagram',
+      icon: 'instagram',
+      link: 'https://instagram.com',
+    },
+    {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'mobidziennik',
+      icon: 'book',
+      link: 'https://mobidziennik.pl/logowanie',
     },
   ],
 
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'airplay',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'twitch',
+        link: 'https://twitch.tv',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'netflix',
+        link: 'https://www.netflix.com',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'wbijam',
+        link: 'https://wbijam.pl',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'animeodcinki',
+        link: 'https://anime-odciki.pl',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'vinted',
+        link: 'https://vinted.pl/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'pinterest',
+        link: 'https://pinterest.com',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'tetr',
+        link: 'https://tetr.io',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'binance',
+        link: 'https://binance.com/pl,currentColor
       },
     ],
   },
