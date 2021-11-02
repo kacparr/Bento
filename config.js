@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Kacper',
+  name: 'Kacper.',
   imageBackground: true,
   openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
   greetingMorning: 'Good morning',
-  greetingAfternoon: 'Good afternoon ',
-  greetingEvening: 'Good evening ',
-  greetingNight: 'Good night ',
+  greetingAfternoon: 'Good afternoon',
+  greetingEvening: 'Good evening',
+  greetingNight: 'Good night',
 
   // Weather
   weatherKey: 'e764b2b8df458539512ea1f44f68eb52',
