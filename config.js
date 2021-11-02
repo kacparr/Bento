@@ -52,21 +52,21 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com',
-    },
-    {
-      id: '4',
       name: 'reddit',
       icon: 'trello',
       link: 'https://reddit.com',
     },
     {
-      id: '5',
+      id: '4',
       name: 'instagram',
       icon: 'instagram',
       link: 'https://instagram.com',
+    },
+    {
+      id: '5',
+      name: 'twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '6',
