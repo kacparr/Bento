@@ -12,8 +12,8 @@ const CONFIG = {
 
   // General
   name: 'Kacper.',
-  imageBackground: true,
-  openInNewTab: false,
+  imageBackground: false,
+  openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
@@ -101,7 +101,7 @@ const CONFIG = {
       },
       {
         name: 'animeodcinki',
-        link: 'https://anime-odciki.pl',
+        link: 'https://anime-odcinki.pl',
       },
     ],
     secondList: [
