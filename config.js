@@ -103,6 +103,10 @@ const CONFIG = {
         name: 'animeodcinki',
         link: 'https://anime-odcinki.pl',
       },
+      {
+        name: 'watch2gether',
+        link: 'https://w2g.tv',
+      },      
     ],
     secondList: [
       {
@@ -121,6 +125,10 @@ const CONFIG = {
         name: 'binance',
         link: 'https://binance.com/pl',
       },
+      {
+        name: 'pyszne',
+        link: 'https://pyszne.pl',
+      },      
     ],
   },
 };
