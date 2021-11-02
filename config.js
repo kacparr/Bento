@@ -12,8 +12,8 @@ const CONFIG = {
 
   // General
   name: 'Kacper.',
-  imageBackground: false,
-  openInNewTab: true,
+  imageBackground: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
