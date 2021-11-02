@@ -119,7 +119,7 @@ const CONFIG = {
       },
       {
         name: 'binance',
-        link: 'https://binance.com/pl,currentColor
+        link: 'https://binance.com/pl',
       },
     ],
   },
