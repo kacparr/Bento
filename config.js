@@ -101,7 +101,7 @@ const CONFIG = {
       },
       {
         name: 'animeodcinki',
-        link: 'https://anime-odcinki.pl',
+        link: 'https://a-o.ninja',
       },
       {
         name: 'watch2gether',
