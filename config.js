@@ -92,8 +92,8 @@ const CONFIG = {
         link: 'https://twitch.tv',
       },
       {
-        name: 'netflix',
-        link: 'https://www.netflix.com',
+        name: 'desu',
+        link: 'https://desu-online.pl/',
       },
       {
         name: 'wbijam',
@@ -104,8 +104,8 @@ const CONFIG = {
         link: 'https://a-o.ninja',
       },
       {
-        name: 'watch2gether',
-        link: 'https://w2g.tv',
+        name: 'mal',
+        link: 'https://myanimelist.net/',
       },      
     ],
     secondList: [
