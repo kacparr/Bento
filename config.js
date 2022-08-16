@@ -72,7 +72,7 @@ const CONFIG = {
       id: '6',
       name: 'mobidziennik',
       icon: 'book',
-      link: 'https://mobidziennik.pl/logowanie',
+      link: 'https://zspolesnica.mobidziennik.pl/dziennik',
     },
   ],
 
@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://pinterest.com',
       },
       {
-        name: 'tetr',
-        link: 'https://tetr.io',
+        name: 'codewars',
+        link: 'https://www.codewars.com/dashboard',
       },
       {
         name: 'binance',
