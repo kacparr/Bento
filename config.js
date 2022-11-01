@@ -1,4 +1,4 @@
-// ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
+coffee// ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
 // ╠╩╗║╣ ║║║ ║ ║ ║
 // ╚═╝╚═╝╝╚╝ ╩ ╚═╝
 // ┌─┐┌─┐┌┐┌┌─┐┬┌─┐┬ ┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
@@ -82,7 +82,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'airplay',
-  secondListIcon: 'coffee',
+  secondListIcon: 'hard-drive',
 
   // Links
   lists: {
