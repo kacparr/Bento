@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Kacper.',
+  name: 'Kacper',
   imageBackground: true,
   openInNewTab: false,
   twelveHourFormat: false,
@@ -110,20 +110,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'vinted',
-        link: 'https://vinted.pl/',
+        name: 'serwer',
+        link: 'http://192.168.1.10',
       },
       {
-        name: 'pinterest',
-        link: 'https://pinterest.com',
+        name: 'router',
+        link: 'http://192.168.1.1',
       },
       {
-        name: 'codewars',
-        link: 'https://www.codewars.com/dashboard',
+        name: 'github',
+        link: 'https://github.com/',
       },
       {
-        name: 'binance',
-        link: 'https://binance.com/pl',
+        name: 'placeholder',
+        link: 'https://www.com',
       },
       {
         name: 'pyszne',
