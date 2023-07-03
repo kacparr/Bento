@@ -88,24 +88,24 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'twitch',
-        link: 'https://twitch.tv',
+        name: 'masto',
+        link: 'https://kolektiva.social',
       },
       {
-        name: 'desu',
-        link: 'https://desu-online.pl/',
+        name: 'tumblr',
+        link: 'https://tumblr.com',
       },
       {
         name: 'wbijam',
         link: 'https://wbijam.pl',
       },
       {
-        name: 'animeodcinki',
-        link: 'https://a-o.ninja',
+        name: 'letterboxd',
+        link: 'https://letterboxd.com',
       },
       {
-        name: 'mal',
-        link: 'https://myanimelist.net/',
+        name: 'zlib',
+        link: 'https://lib-ur6gmw5p7wrfe4dnjjk72rrx.1lib.cz/',
       },      
     ],
     secondList: [
@@ -126,8 +126,8 @@ const CONFIG = {
         link: 'https://www.com',
       },
       {
-        name: 'pyszne',
-        link: 'https://pyszne.pl',
+        name: 'placeholder',
+        link: 'https://www.com',
       },      
     ],
   },
