@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'mobidziennik',
+      name: 'extranet',
       icon: 'book',
-      link: 'https://zspolesnica.mobidziennik.pl/dziennik',
+      link: 'https://portal.wsb.pl',
     },
   ],
 
@@ -96,12 +96,12 @@ const CONFIG = {
         link: 'https://tumblr.com',
       },
       {
-        name: 'wbijam',
-        link: 'https://wbijam.pl',
+        name: 'duo',
+        link: 'https://www.duolingo.com/learn',
       },
       {
-        name: 'letterboxd',
-        link: 'https://letterboxd.com',
+        name: 'moodle',
+        link: 'https://moodle2.e-wsb.pl/my/index.php?lang=pl',
       },
       {
         name: 'zlib',
