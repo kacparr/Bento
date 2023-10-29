@@ -104,8 +104,8 @@ const CONFIG = {
         link: 'https://moodle2.e-wsb.pl/my/index.php?lang=pl',
       },
       {
-        name: 'zlib',
-        link: 'https://lib-ur6gmw5p7wrfe4dnjjk72rrx.1lib.cz/',
+        name: 'slack',
+        link: 'https://razem-wroclaw.slack.com/',
       },      
     ],
     secondList: [
