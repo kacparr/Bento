@@ -88,8 +88,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'masto',
-        link: 'https://kolektiva.social',
+        name: 'fedi',
+        link: 'https://mk.absturztau.be',
       },
       {
         name: 'tumblr',
