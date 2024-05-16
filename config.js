@@ -88,12 +88,12 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'fedi',
-        link: 'https://mk.absturztau.be',
+        name: '',
+        link: '',
       },
       {
-        name: 'tumblr',
-        link: 'https://tumblr.com',
+        name: '',
+        link: '',
       },
       {
         name: 'duo',
@@ -104,8 +104,8 @@ const CONFIG = {
         link: 'https://moodle2.e-wsb.pl/my/index.php?lang=pl',
       },
       {
-        name: 'slack',
-        link: 'https://razem-wroclaw.slack.com/',
+        name: '',
+        link: '',
       },      
     ],
     secondList: [
