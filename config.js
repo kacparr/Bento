@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'facebook',
-      icon: 'facebook',
-      link: 'https://facebook.com/',
+      name: '',
+      icon: '',
+      link: '',
     },
     {
       id: '2',
@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'reddit',
-      icon: 'trello',
-      link: 'https://reddit.com',
+      name: '',
+      icon: '',
+      link: '',
     },
     {
       id: '4',
@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com',
+      name: '',
+      icon: '',
+      link: '',
     },
     {
       id: '6',
